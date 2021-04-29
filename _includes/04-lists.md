@@ -1,3 +1,0 @@
-vtuber
--hololive
--nijisanji
