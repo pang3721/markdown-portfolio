@@ -1,3 +1,3 @@
-- vtuber
-   - hololive
-   - nijisanji
+vtuber
+-hololive
+-nijisanji
